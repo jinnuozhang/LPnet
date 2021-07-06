@@ -1,6 +1,6 @@
-# DAnet
+# LPnet
 
-An ResNet coupled with Attention block
+An ResNet coupled with attention block to predict the lesion propotion of rice bacterial blight disease with VIR spectrums
 
 # Data Input
 
